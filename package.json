@@ -1,7 +1,7 @@
 {
   "name": "usereducer-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple App to demonstrate how to useReducer in a nutshell",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
